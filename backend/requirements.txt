@@ -1,0 +1,27 @@
+--- Core Framework & Server ---
+
+fastapi
+uvicorn
+
+--- Database & ORM ---
+
+sqlalchemy
+pymysql
+
+--- Security & Authentication ---
+
+passlib[bcrypt]
+python-jose[cryptography]
+
+--- Multi-Agent Functionality (CRITICAL) ---
+
+thefuzz # Needed for Levenshtein Distance / Fuzzy Logic (Used by Support Agent)
+python-Levenshtein # Highly recommended; speeds up thefuzz dramatically
+
+--- External API Access (Mapbox, Brevo) ---
+
+httpx # Modern, async-compatible HTTP client for agent API calls (Used by Weather Agent and Navigation Agent)
+
+--- Local Development Only ---
+
+python-dotenv

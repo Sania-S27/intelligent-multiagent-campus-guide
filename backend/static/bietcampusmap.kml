@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>bietcampusmap</name>
+	<gx:CascadingStyle kml:id="__managed_style_2B49EC9D5E3B64A66BF4">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_17600A532C3B64A66BF4">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0267BF23303B64A66BF4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_17600A532C3B64A66BF4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2B49EC9D5E3B64A66BF4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="04E558F5F33B64A66BE4">
+		<name>Admin Block</name>
+		<LookAt>
+			<longitude>75.90135724438046</longitude>
+			<latitude>14.44430496514578</latitude>
+			<altitude>609.5552070330826</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>656.5253418905196</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0267BF23303B64A66BF4</styleUrl>
+		<Point>
+			<coordinates>75.90142689555672,14.44473094835364,611.1328035859316</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06909C627C3B64A6BC06">
+		<name>Main gate</name>
+		<LookAt>
+			<longitude>75.90116552758829</longitude>
+			<latitude>14.44436699837231</latitude>
+			<altitude>609.0005682771958</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>514.0418378647155</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0267BF23303B64A66BF4</styleUrl>
+		<Point>
+			<coordinates>75.90033628041745,14.44515958951991,606.4341290251311</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FA162B31A3B64A6F14B">
+		<name>CSE Block</name>
+		<LookAt>
+			<longitude>75.90116552758829</longitude>
+			<latitude>14.44436699837231</latitude>
+			<altitude>609.0005682771958</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>514.0418378647155</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0267BF23303B64A66BF4</styleUrl>
+		<Point>
+			<coordinates>75.90122310013867,14.44497345855746,611.1526809209204</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BDBA846813B64A7A5F0">
+		<name>ECE Block</name>
+		<LookAt>
+			<longitude>75.90116552728254</longitude>
+			<latitude>14.4443669985942</latitude>
+			<altitude>609.0005682771958</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>514.0418378647155</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0267BF23303B64A66BF4</styleUrl>
+		<Point>
+			<coordinates>75.90143543974942,14.44437895170709,610.3831717616074</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0ED1E975A33B64A80296">
+		<name>Central Library</name>
+		<LookAt>
+			<longitude>75.90116552728254</longitude>
+			<latitude>14.4443669985942</latitude>
+			<altitude>609.0005682771958</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>514.0418378647155</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0267BF23303B64A66BF4</styleUrl>
+		<Point>
+			<coordinates>75.90173061757916,14.44485297947042,611.3511341754862</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07377481983B64A85CF3">
+		<name>Parking Area</name>
+		<LookAt>
+			<longitude>75.90245115177262</longitude>
+			<latitude>14.44431262254434</latitude>
+			<altitude>610.1108581382416</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>512.9315845001838</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0267BF23303B64A66BF4</styleUrl>
+		<Point>
+			<coordinates>75.90173951834188,14.44411309155947,607.5313845959341</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="003CF6108D3B64A8A2AF">
+		<name>Information Science</name>
+		<LookAt>
+			<longitude>75.90296056672999</longitude>
+			<latitude>14.44416083302177</latitude>
+			<altitude>611.145342784601</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>511.8970755303599</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0267BF23303B64A66BF4</styleUrl>
+		<Point>
+			<coordinates>75.90220519455151,14.4439236544395,609.299323659636</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DCDBA0F6D3B64A8EE20">
+		<name>CME Circle</name>
+		<LookAt>
+			<longitude>75.90363568762463</longitude>
+			<latitude>14.44421185758349</latitude>
+			<altitude>613.7531781161068</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>509.2892711159948</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0267BF23303B64A66BF4</styleUrl>
+		<Point>
+			<coordinates>75.9034410616259,14.44429188625637,613.8934645736383</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DE670F7853B64A94134">
+		<name>Civil Block</name>
+		<LookAt>
+			<longitude>75.90363568762463</longitude>
+			<latitude>14.44421185758349</latitude>
+			<altitude>613.7532158447796</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>509.2892711159948</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0267BF23303B64A66BF4</styleUrl>
+		<Point>
+			<coordinates>75.90320476912102,14.44458094363157,614.600861830952</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0031A7E2DD3B64A9785C">
+		<name>Mechanical Block</name>
+		<LookAt>
+			<longitude>75.90339819964485</longitude>
+			<latitude>14.4449640631827</latitude>
+			<altitude>615.364396058655</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>256.3725255902683</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0267BF23303B64A66BF4</styleUrl>
+		<Point>
+			<coordinates>75.90320341809392,14.44496967773427,614.6517201172336</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0333EA9A4F3B64A9BFE0">
+		<name>Electrical Block</name>
+		<LookAt>
+			<longitude>75.90343132497557</longitude>
+			<latitude>14.44534271274862</latitude>
+			<altitude>615.428924883199</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>187.9457277860092</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0267BF23303B64A66BF4</styleUrl>
+		<Point>
+			<coordinates>75.90320761082992,14.4453037756803,615.0356221243738</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="019025F9CF3B64AA0EE7">
+		<name>Canteen</name>
+		<LookAt>
+			<longitude>75.9039165908688</longitude>
+			<latitude>14.44474319940155</latitude>
+			<altitude>615.1266883834928</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>255.3860406063177</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0267BF23303B64A66BF4</styleUrl>
+		<Point>
+			<coordinates>75.90391986542487,14.4445081526449,615.5189157648009</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FA19AF81A3B64AA3C40">
+		<name>SSM cultural Centre</name>
+		<LookAt>
+			<longitude>75.9039165908688</longitude>
+			<latitude>14.44474319940155</latitude>
+			<altitude>615.1266883834928</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>255.3860406063177</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0267BF23303B64A66BF4</styleUrl>
+		<Point>
+			<coordinates>75.90454815036244,14.44465248919262,615.6852340771308</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="018C770DA13B64AA808C">
+		<name>BIET Back Gate</name>
+		<LookAt>
+			<longitude>75.90490066915899</longitude>
+			<latitude>14.44469095972689</latitude>
+			<altitude>616.9248170851982</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>253.5878992703875</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0267BF23303B64A66BF4</styleUrl>
+		<Point>
+			<coordinates>75.90524915568771,14.44437990265162,616.8874414605544</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FA66165EB3B64AAC7D4">
+		<name>Cricket Ground</name>
+		<LookAt>
+			<longitude>75.90382105724744</longitude>
+			<latitude>14.44439492867363</latitude>
+			<altitude>615.0045217329022</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>801.7090825969353</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0267BF23303B64A66BF4</styleUrl>
+		<Point>
+			<coordinates>75.90436412292833,14.44388799004546,603.4346087422698</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04690B16FF3B64ADA85C">
+		<name>FootBall Ground </name>
+		<LookAt>
+			<longitude>75.90210696617902</longitude>
+			<latitude>14.44441454000662</latitude>
+			<altitude>609.569108183083</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>694.2556459811021</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0267BF23303B64A66BF4</styleUrl>
+		<Point>
+			<coordinates>75.90250285647207,14.44498637189533,611.031515047778</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="055DA0E7743B64AFEF9C">
+		<name>Main Gate to Back Gate</name>
+		<LookAt>
+			<longitude>75.90447928937265</longitude>
+			<latitude>14.44446193891897</latitude>
+			<altitude>616.1273409905185</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>445.4154229859705</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0267BF23303B64A66BF4</styleUrl>
+		<LineString>
+			<coordinates>
+				75.90034041463682,14.44519998495439,0 75.90082911406897,14.44515811974379,0 75.90108323807291,14.44471064830387,0 75.90120657765738,14.44421255681014,0 75.90176760732719,14.44427674798457,0 75.90223458637983,14.44429490935354,0 75.90298313085498,14.44430752514207,0 75.90344198945365,14.44431659020535,0 75.90390666577835,14.44433073093538,0 75.90464514870298,14.44436395300016,0 75.90523824833801,14.44438664484205,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0348C476C43B64B1271F">
+		<name>Main to CME circle</name>
+		<LookAt>
+			<longitude>75.90314592776137</longitude>
+			<latitude>14.44528550369628</latitude>
+			<altitude>614.7813268253168</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>565.2029118115025</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0267BF23303B64A66BF4</styleUrl>
+		<LineString>
+			<coordinates>
+				75.90084652065713,14.44517657474627,0 75.90199102784197,14.44537598145226,0 75.90343684722143,14.44559330081684,0 75.9034396987559,14.44530764099635,0 75.90343974507657,14.44494987711237,0 75.90340550889769,14.44456398570714,0 75.90341462190781,14.44433457111755,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="054E35A82C3B64B1D576">
+		<name>Quite Path</name>
+		<LookAt>
+			<longitude>75.90230320028598</longitude>
+			<latitude>14.44489034633111</latitude>
+			<altitude>611.332884319918</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>568.6513677546463</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0267BF23303B64A66BF4</styleUrl>
+		<LineString>
+			<coordinates>
+				75.90200113208714,14.44538287021959,0 75.90208325200017,14.44430017023058,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0919446E6D3B64B21CDC">
+		<name>Textile Block</name>
+		<LookAt>
+			<longitude>75.90396741209047</longitude>
+			<latitude>14.44478424589183</latitude>
+			<altitude>615.0406181150482</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>564.9435544746666</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0267BF23303B64A66BF4</styleUrl>
+		<Point>
+			<coordinates>75.90295159337654,14.44397657455675,610.8805112026629</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05501B3A053B64B2E5C6">
+		<name>Parking to Central Library</name>
+		<LookAt>
+			<longitude>75.90244349405948</longitude>
+			<latitude>14.44459088743048</latitude>
+			<altitude>610.5277042565992</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>569.4564648460073</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0267BF23303B64A66BF4</styleUrl>
+		<LineString>
+			<coordinates>
+				75.90173865700135,14.44428071363758,0 75.90170848440926,14.44469623602944,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

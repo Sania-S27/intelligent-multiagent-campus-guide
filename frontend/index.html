@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BIET Campus Guide Map</title>
+    <style>
+        /* The map container MUST have a defined size */
+        #map {
+            height: 100vh;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+
+    <script>
+        function initMap() {
+            // Use coordinates from the KML file (Admin Block)
+            const mapCenter = { 
+                lat: 14.4447, // Approx. Latitude
+                lng: 75.9014  // Approx. Longitude
+            }; 
+            
+            const map = new google.maps.Map(document.getElementById("map"), {
+                zoom: 17, // Zoom level for a campus view
+                center: mapCenter,
+                mapTypeId: "satellite" 
+            });
+
+            // Load the KML layer using the URL served by your FastAPI backend
+            const kmlLayer = new google.maps.KmlLayer({
+                url: 'http://127.0.0.1:8000/static/bietcampusmap.kml',
+                suppressInfoWindows: true,
+                map: map
+            });
+        }
+    </script>
+
+    <script
+        src="https://maps.googleapis.com/maps/api/js?key=YOUR_FRONTEND_API_KEY&callback=initMap"
+        defer
+    ></script>
+</body>
+</html>
